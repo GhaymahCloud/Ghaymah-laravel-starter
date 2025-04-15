@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ghaymah Starters Collection
 
 A collection of minimal starter templates displaying "MARHABA in Ghaymah" in different frameworks.
@@ -34,3 +35,15 @@ A collection of minimal starter templates displaying "MARHABA in Ghaymah" in dif
 
 ## License
 MIT
+=======
+# Laravel Starter Template
+
+A simple Laravel starter template displaying "MARHABA in Ghaymah".
+
+## Getting Started
+
+1. Clone this repository
+2. Install dependencies:
+```bash
+composer install
+>>>>>>> 54135159302133623d9daa97d363c2ef27ea024f
